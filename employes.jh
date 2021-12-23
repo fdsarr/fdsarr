@@ -38,6 +38,7 @@ entity Employee {
 	*/
 	firstName String,
 	lastName String,
+	sexe String,
 	email String,
 	phoneNumber String,
 	hireDate Instant,
